@@ -5,4 +5,5 @@ print("го на забив")
 print("отмена")
 while True:
     print("иди в жопу")
+    print("иди в жопу")
 
